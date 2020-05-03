@@ -1,6 +1,4 @@
 public class Main {
-    //Se da un text
-    //A) Sa se numere toate cuvintele care au lungimea mai mare de cat 2 , contin caracterul 'i' si caracterul i se afla pe o pozitie para
     public static void main(String[] args) {
         String text1="Obiectul istoriei nu se limitează doar la evenimentele politice, cum ar fi de exemplu bătăliile sau faptele conducătorilor.";
         int numarCuvinte=numarulDeCuvinte(text1);
